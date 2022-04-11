@@ -1,0 +1,5 @@
+file=open("my_file.txt","r+")
+f=file.write("prerna")
+val=file.read()
+print(val)
+file.close()
